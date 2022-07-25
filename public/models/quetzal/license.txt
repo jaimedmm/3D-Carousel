@@ -1,0 +1,11 @@
+Model Information:
+* title:	Quetzal Animation & Texture Test
+* source:	https://sketchfab.com/3d-models/quetzal-animation-texture-test-b55517c209d74762b371bc6ce0d1e56f
+* author:	Christian-Gomez (https://sketchfab.com/Christian-Gomez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Quetzal Animation & Texture Test" (https://sketchfab.com/3d-models/quetzal-animation-texture-test-b55517c209d74762b371bc6ce0d1e56f) by Christian-Gomez (https://sketchfab.com/Christian-Gomez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

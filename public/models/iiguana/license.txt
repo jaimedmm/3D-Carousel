@@ -1,0 +1,8 @@
+Model Information:
+* title:	Зеленая игуана | Green iguana
+* source:	https://sketchfab.com/3d-models/green-iguana-217da036aae14762904ef4630023978b
+* author:	darwinmuseum.ru (https://sketchfab.com/darwinmuseum.ru)
+
+Model License:
+* license type:	CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)
+* requirements:	Credit is not mandatory. Commercial use is allowed.
